@@ -1,11 +1,12 @@
-# calculadora
+# Calculadora
 
-Calculadora Simple
+Calculadora con funciones simples.
 
 Integrantes
 ----------
-*) Alessandro
-*) Franco
-*) Gimena
-*) Lucia
-*) Lucio
+
+- Alessandro
+- Franco
+- Gimena
+- Lucia
+- Lucio
