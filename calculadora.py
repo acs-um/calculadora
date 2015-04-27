@@ -30,3 +30,7 @@ class Calculadora:
     def resta(self,num1, num2):
 	    """Realiza la resta de dos numeros"""
         return num1-num2
+
+    def suma(self,num1, num2):
+	    """Realiza la suma de dos numeros"""
+        return num1+num2
