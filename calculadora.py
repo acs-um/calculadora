@@ -15,3 +15,6 @@ class Calculadora:
 	if num2==0:
 		return "No se puede dividir por 0."
 	return num1/num2
+    def resta(self,num1, num2):
+	"""Realiza la resta de dos numeros"""
+	return num1-num2
