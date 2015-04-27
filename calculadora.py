@@ -7,3 +7,8 @@ class Calculadora:
         Realiza la potencia de num1 en base a num2.
         """
         return num1**num2
+    
+
+	def multi(self,num1,num2):
+	
+	return num1*num2
