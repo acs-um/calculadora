@@ -15,10 +15,3 @@ class Calculadora:
 	if num2==0:
 		return "No se puede dividir por 0."
 	return num1/num2
-
-    def suma(self, num1, num2):
-	"""
-	Realiza la suma de num1 mas num2 (num1+num2).
-	"""
-	return num1+num2
-
